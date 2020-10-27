@@ -1,0 +1,25 @@
+{
+  "name": "static-website",
+  "description": "Simple Hello World Node.js sample for Azure App Service",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "Microsoft",
+  "scripts": {
+    "start": "node firstAttempt.js"
+  },
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure-Samples/nodejs-docs-hello-world.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Azure-Samples/nodejs-docs-hello-world/issues"
+  },
+  "homepage": "https://github.com/Azure-Samples/nodejs-docs-hello-world#readme",
+  "dependencies": {
+    "tedious": "^9.2.1"
+  },
+  "devDependencies": {}
+}
