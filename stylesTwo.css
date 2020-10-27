@@ -28,6 +28,10 @@ div {
   background-color: #f2f2f2;
   padding: 20px;
 }
+body{
+    background-color: #f2f2f2;
+}
+
 
 /* Add a black background color to the top navigation bar */
 .topnav {
